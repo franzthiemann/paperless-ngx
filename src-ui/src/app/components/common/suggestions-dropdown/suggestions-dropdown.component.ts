@@ -34,6 +34,7 @@ export class SuggestionsDropdownComponent {
   readonly appliedCorrespondent = input<number>(null)
   readonly appliedDocumentType = input<number>(null)
   readonly appliedStoragePath = input<number>(null)
+  readonly appliedCustomFields = input<Record<number, any>>({})
 
   @Output()
   getSuggestions: EventEmitter<SuggestionSource> = new EventEmitter()
@@ -49,6 +50,10 @@ export class SuggestionsDropdownComponent {
 
   @Output()
   addCorrespondent: EventEmitter<string> = new EventEmitter()
+
+  @Output()
+  applyCustomField: EventEmitter<{ id: number; value: any }> =
+    new EventEmitter()
 
   public clickSuggest(): void {
     if (
@@ -127,13 +132,29 @@ export class SuggestionsDropdownComponent {
     )
   }
 
+  get customFieldSuggestions(): number {
+    return this.countUnappliedCustomFields()
+  }
+
   get totalSuggestions(): number {
-    return this.novelSuggestions + this.reusableSuggestions
+    return (
+      this.novelSuggestions +
+      this.reusableSuggestions +
+      this.customFieldSuggestions
+    )
   }
 
   private countUnapplied(suggested: number[], applied: number[]): number {
     return (suggested ?? []).filter((id) => !(applied ?? []).includes(id))
       .length
+  }
+
+  private countUnappliedCustomFields(): number {
+    const applied = this.appliedCustomFields()
+    return (this.suggestions()?.custom_fields ?? []).filter((s) => {
+      const current = applied?.[s.id]
+      return current == null || current === ''
+    }).length
   }
 
   get noSuggestions(): boolean {
@@ -149,7 +170,14 @@ export class SuggestionsDropdownComponent {
       !suggestions.suggested_document_types?.length &&
       !suggestions.storage_paths?.length &&
       !suggestions.suggested_storage_paths?.length &&
-      !suggestions.dates?.length
+      !suggestions.dates?.length &&
+      !suggestions.custom_fields?.length
     )
+  }
+
+  public formatCustomFieldValue(value: any): string {
+    if (value == null) return ''
+    if (typeof value === 'boolean') return value ? 'Yes' : 'No'
+    return String(value)
   }
 }

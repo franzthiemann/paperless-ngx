@@ -14,6 +14,12 @@ export interface DocumentSuggestions {
   suggested_storage_paths?: string[]
 
   dates?: string[] // ISO-formatted date string e.g. 2022-11-03
+
+  custom_fields?: Array<{
+    id: number
+    name: string
+    value: string | number | boolean | Date | null
+  }>
 }
 
 const union = <T>(a: T[] = [], b: T[] = []): T[] => [...new Set([...a, ...b])]
