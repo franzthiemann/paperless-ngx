@@ -5,7 +5,7 @@
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/alert/alert.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/alert/alert.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
         <target state="translated">Zatvori</target>
@@ -13,7 +13,7 @@
       <trans-unit id="ngb.carousel.slide-number" datatype="html">
         <source> Slide <x id="INTERPOLATION"/> of <x id="INTERPOLATION_1"/> </source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/carousel/carousel.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">129</context>
         </context-group>
         <note priority="1" from="description">Currently selected slide number read by screen reader</note>
@@ -22,7 +22,7 @@
       <trans-unit id="ngb.carousel.previous" datatype="html">
         <source>Previous</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/carousel/carousel.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">147,148</context>
         </context-group>
         <target state="translated">Prethodno</target>
@@ -30,7 +30,7 @@
       <trans-unit id="ngb.carousel.next" datatype="html">
         <source>Next</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/carousel/carousel.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">187</context>
         </context-group>
         <target state="translated">Sljedeće</target>
@@ -38,11 +38,11 @@
       <trans-unit id="ngb.datepicker.select-month" datatype="html">
         <source>Select month</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
         <target state="translated">Odaberi mjesec</target>
@@ -50,11 +50,11 @@
       <trans-unit id="ngb.datepicker.select-year" datatype="html">
         <source>Select year</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">89</context>
         </context-group>
         <target state="translated">Odaberi godinu</target>
@@ -62,11 +62,11 @@
       <trans-unit id="ngb.datepicker.previous-month" datatype="html">
         <source>Previous month</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">74,76</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">103</context>
         </context-group>
         <target state="translated">Prethodni mjesec</target>
@@ -74,11 +74,11 @@
       <trans-unit id="ngb.datepicker.next-month" datatype="html">
         <source>Next month</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">103</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/datepicker/datepicker-navigation.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">103</context>
         </context-group>
         <target state="translated">Sljedeći mjesec</target>
@@ -86,7 +86,7 @@
       <trans-unit id="ngb.pagination.first" datatype="html">
         <source>««</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">297</context>
         </context-group>
         <target state="translated">««</target>
@@ -94,7 +94,7 @@
       <trans-unit id="ngb.pagination.previous" datatype="html">
         <source>«</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">322</context>
         </context-group>
         <target state="translated">«</target>
@@ -102,7 +102,7 @@
       <trans-unit id="ngb.pagination.next" datatype="html">
         <source>»</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">358</context>
         </context-group>
         <target state="translated">»</target>
@@ -110,7 +110,7 @@
       <trans-unit id="ngb.pagination.last" datatype="html">
         <source>»»</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">396</context>
         </context-group>
         <target state="translated">»»</target>
@@ -118,7 +118,7 @@
       <trans-unit id="ngb.pagination.first-aria" datatype="html">
         <source>First</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">414,415</context>
         </context-group>
         <target state="translated">Prvi</target>
@@ -126,7 +126,7 @@
       <trans-unit id="ngb.pagination.previous-aria" datatype="html">
         <source>Previous</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">444,445</context>
         </context-group>
         <target state="translated">Prethodni</target>
@@ -134,7 +134,7 @@
       <trans-unit id="ngb.pagination.next-aria" datatype="html">
         <source>Next</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">479,480</context>
         </context-group>
         <target state="translated">Sljedeći</target>
@@ -142,7 +142,7 @@
       <trans-unit id="ngb.pagination.last-aria" datatype="html">
         <source>Last</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/pagination/pagination.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">506</context>
         </context-group>
         <target state="translated">Zadnji</target>
@@ -152,14 +152,14 @@
           <x id="INTERPOLATION"/>
         </source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/progressbar/progressbar.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/progressbar/progressbar.ts</context>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.timepicker.HH" datatype="html">
         <source>HH</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">256,259</context>
         </context-group>
         <target state="translated">HH</target>
@@ -167,7 +167,7 @@
       <trans-unit id="ngb.timepicker.hours" datatype="html">
         <source>Hours</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">293,295</context>
         </context-group>
         <target state="translated">Sati</target>
@@ -175,7 +175,7 @@
       <trans-unit id="ngb.timepicker.MM" datatype="html">
         <source>MM</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">322</context>
         </context-group>
         <target state="translated">MM</target>
@@ -183,7 +183,7 @@
       <trans-unit id="ngb.timepicker.minutes" datatype="html">
         <source>Minutes</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">360</context>
         </context-group>
         <target state="translated">Minute</target>
@@ -191,7 +191,7 @@
       <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
         <source>Increment hours</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">397,399</context>
         </context-group>
         <target state="translated">Povećanje sati</target>
@@ -199,7 +199,7 @@
       <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
         <source>Decrement hours</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">435,438</context>
         </context-group>
         <target state="translated">Smanjenje sati</target>
@@ -207,7 +207,7 @@
       <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
         <source>Increment minutes</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">Povečanje minuta</target>
@@ -215,7 +215,7 @@
       <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
         <source>Decrement minutes</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">Smanjenje minuta</target>
@@ -223,7 +223,7 @@
       <trans-unit id="ngb.timepicker.SS" datatype="html">
         <source>SS</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">SS</target>
@@ -231,7 +231,7 @@
       <trans-unit id="ngb.timepicker.seconds" datatype="html">
         <source>Seconds</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">Sekunde</target>
@@ -239,7 +239,7 @@
       <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
         <source>Increment seconds</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">Povečanje sekundi</target>
@@ -247,7 +247,7 @@
       <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
         <source>Decrement seconds</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
         <target state="translated">Smanjenje sekundi</target>
@@ -257,14 +257,14 @@
           <x id="INTERPOLATION"/>
         </source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/timepicker/timepicker.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">442</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.toast.close-aria" datatype="html">
         <source>Close</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.6_@angular+core@22.1.6_@angular+_0f0da7e9cfc35b268da39b83c54e3258/node_modules/src/toast/toast.ts</context>
+          <context context-type="sourcefile">node_modules/.pnpm/@ng-bootstrap+ng-bootstrap@21.0.0_@angular+common@22.1.7_@angular+core@22.1.7_@angular+_bdd9adf606c7b6a0170d9f35c5973e0f/node_modules/src/toast/toast.ts</context>
           <context context-type="linenumber">110,112</context>
         </context-group>
         <target state="translated">Zatvori</target>
@@ -10741,7 +10741,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">348</context>
+          <context context-type="linenumber">351</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/document-attributes/document-attributes.component.html</context>
@@ -10757,7 +10757,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">341</context>
+          <context context-type="linenumber">344</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/document-attributes/document-attributes.component.html</context>
@@ -11041,7 +11041,7 @@
         <source>Reset filters / selection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">329</context>
+          <context context-type="linenumber">332</context>
         </context-group>
         <target state="translated">Resetiraj filtere / odabir</target>
       </trans-unit>
@@ -11049,7 +11049,7 @@
         <source>Open first [selected] document</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">357</context>
+          <context context-type="linenumber">360</context>
         </context-group>
         <target state="translated">Otvori prvi [odabrani] dokument</target>
       </trans-unit>
@@ -11057,7 +11057,7 @@
         <source>Previous page</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">373</context>
+          <context context-type="linenumber">376</context>
         </context-group>
         <target state="translated">Prethodna stranica</target>
       </trans-unit>
@@ -11065,7 +11065,7 @@
         <source>Next page</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">385</context>
+          <context context-type="linenumber">388</context>
         </context-group>
         <target state="translated">Sljedeća stranica</target>
       </trans-unit>
@@ -11073,7 +11073,7 @@
         <source>View &quot;<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>&quot; saved successfully.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">419</context>
+          <context context-type="linenumber">422</context>
         </context-group>
         <target state="translated">Prikaz "<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>" uspješno spremljen.</target>
       </trans-unit>
@@ -11081,7 +11081,7 @@
         <source>Failed to save view &quot;<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>&quot;.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">425</context>
+          <context context-type="linenumber">428</context>
         </context-group>
         <target state="translated">Spremanje prikaza "<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>" nije uspjelo.</target>
       </trans-unit>
@@ -11089,7 +11089,7 @@
         <source>View &quot;<x id="PH" equiv-text="savedView.name"/>&quot; created successfully.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">494</context>
+          <context context-type="linenumber">497</context>
         </context-group>
         <target state="translated">Prikaz "<x id="PH" equiv-text="savedView.name"/>" uspješno kreiran.</target>
       </trans-unit>
@@ -11097,7 +11097,7 @@
         <source>View &quot;<x id="PH" equiv-text="savedView.name"/>&quot; created successfully, but could not update visibility settings.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
-          <context context-type="linenumber">500</context>
+          <context context-type="linenumber">503</context>
         </context-group>
         <target state="translated">Prikaz "<x id="PH" equiv-text="savedView.name"/>" uspješno kreiran, ali nije moguće ažurirati postavke vidljivosti.</target>
       </trans-unit>
@@ -13298,11 +13298,27 @@
         </context-group>
         <target state="translated">LLM embedding model</target>
       </trans-unit>
+      <trans-unit id="861068592166833023" datatype="html">
+        <source>LLM Embedding API Key</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
+          <context context-type="linenumber">358</context>
+        </context-group>
+        <target state="needs-translation">LLM Embedding API Key</target>
+      </trans-unit>
+      <trans-unit id="2929108042259892948" datatype="html">
+        <source>Used for embeddings when set, otherwise LLM API key is used.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
+          <context context-type="linenumber">360</context>
+        </context-group>
+        <target state="needs-translation">Used for embeddings when set, otherwise LLM API key is used.</target>
+      </trans-unit>
       <trans-unit id="3554114880473286122" datatype="html">
         <source>LLM Embedding Endpoint</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">358</context>
+          <context context-type="linenumber">366</context>
         </context-group>
         <target state="translated">LLM embedding krajnja točka</target>
       </trans-unit>
@@ -13310,7 +13326,7 @@
         <source>LLM Embedding Chunk Size</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">365</context>
+          <context context-type="linenumber">373</context>
         </context-group>
         <target state="translated">Veličina LLM embedding bloka</target>
       </trans-unit>
@@ -13318,7 +13334,7 @@
         <source>LLM Context Size</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">372</context>
+          <context context-type="linenumber">380</context>
         </context-group>
         <target state="translated">Veličina LLM konteksta</target>
       </trans-unit>
@@ -13326,7 +13342,7 @@
         <source>LLM Backend</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">379</context>
+          <context context-type="linenumber">387</context>
         </context-group>
         <target state="translated">LLM pozadina</target>
       </trans-unit>
@@ -13334,7 +13350,7 @@
         <source>LLM Model</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">387</context>
+          <context context-type="linenumber">395</context>
         </context-group>
         <target state="translated">LLM model</target>
       </trans-unit>
@@ -13342,7 +13358,7 @@
         <source>LLM API Key</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">394</context>
+          <context context-type="linenumber">402</context>
         </context-group>
         <target state="translated">LLM API ključ</target>
       </trans-unit>
@@ -13350,7 +13366,7 @@
         <source>LLM Endpoint</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">401</context>
+          <context context-type="linenumber">409</context>
         </context-group>
         <target state="translated">LLM krajnja točka</target>
       </trans-unit>
@@ -13358,7 +13374,7 @@
         <source>LLM Output Language</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">408</context>
+          <context context-type="linenumber">416</context>
         </context-group>
         <target state="translated">LLM izlazni jezik</target>
       </trans-unit>
@@ -13366,7 +13382,7 @@
         <source>Language to use for generated AI suggestions. When unset, AI suggestions use the user&apos;s display language if explicitly set.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">412</context>
+          <context context-type="linenumber">420</context>
         </context-group>
         <target state="translated">Jezik za generirane AI prijedloge. Ako nije postavljeno, AI prijedlozi koriste korisnikov jezik prikaza ako je eksplicitno postavljen.</target>
       </trans-unit>
@@ -13374,7 +13390,7 @@
         <source>LLM Request Timeout</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">416</context>
+          <context context-type="linenumber">424</context>
         </context-group>
         <target state="needs-translation">LLM Request Timeout</target>
       </trans-unit>
@@ -13382,7 +13398,7 @@
         <source>Timeout in seconds for LLM requests.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">420</context>
+          <context context-type="linenumber">428</context>
         </context-group>
         <target state="needs-translation">Timeout in seconds for LLM requests.</target>
       </trans-unit>
